@@ -1,0 +1,2 @@
+# ArcoLinuxB-Worm Calamares configuration
+
